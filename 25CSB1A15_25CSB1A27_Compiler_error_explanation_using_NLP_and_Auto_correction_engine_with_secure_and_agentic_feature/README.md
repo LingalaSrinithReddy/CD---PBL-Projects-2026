@@ -148,9 +148,9 @@ pip install -r requirements-base.txt
 pip install -r requirements.txt
 ```
 
-### 2. Environment Configuration (Optional)
+### 2. Environment Configuration
 The system operates **100% offline out-of-the-box** using the deterministic rule engine and offline guide.  
-To enable optional online LLM explanation (Tier 2), configure API keys:
+To enable online LLM explanation (Tier 2), configure API keys:
 
 **Windows PowerShell:**
 ```powershell
